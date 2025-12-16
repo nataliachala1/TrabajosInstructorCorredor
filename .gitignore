@@ -1,0 +1,10 @@
+# Carpetas generadas por .NET
+bin/
+obj/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de usuario
+*.user
+*.suo
